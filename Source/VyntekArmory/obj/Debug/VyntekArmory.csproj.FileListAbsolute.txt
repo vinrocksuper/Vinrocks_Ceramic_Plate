@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VynTek-Armory\Assemblies\VyntekArmory.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VynTek-Armory\Source\VyntekArmory\obj\Debug\VyntekArmory.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VynTek-Armory\Source\VyntekArmory\obj\Debug\VyntekArmory.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VynTek-Armory\Source\VyntekArmory\obj\Debug\VyntekAr.FDD71CFA.Up2Date
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VynTek-Armory\Source\VyntekArmory\obj\Debug\VyntekArmory.dll

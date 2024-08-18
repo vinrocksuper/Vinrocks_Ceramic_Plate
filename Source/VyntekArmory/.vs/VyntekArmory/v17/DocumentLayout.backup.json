@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01BF00D-AF78-404E-ADC0-8D00DC73DFEC}|VyntekArmory.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vyntek-armory\\source\\vyntekarmory\\compshatteronpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01BF00D-AF78-404E-ADC0-8D00DC73DFEC}|VyntekArmory.csproj|solutionrelative:compshatteronpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01BF00D-AF78-404E-ADC0-8D00DC73DFEC}|VyntekArmory.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\compproperties_shatteronpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01BF00D-AF78-404E-ADC0-8D00DC73DFEC}|VyntekArmory.csproj|solutionrelative:compproperties_shatteronpierce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompProperties_ShatterOnPierce.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\CompProperties_ShatterOnPierce.cs",
+              "RelativeDocumentMoniker": "CompProperties_ShatterOnPierce.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\CompProperties_ShatterOnPierce.cs",
+              "RelativeToolTip": "CompProperties_ShatterOnPierce.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:30:43.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompShatterOnPierce.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\CompShatterOnPierce.cs",
+              "RelativeDocumentMoniker": "CompShatterOnPierce.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VynTek-Armory\\Source\\VyntekArmory\\CompShatterOnPierce.cs",
+              "RelativeToolTip": "CompShatterOnPierce.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:56:53.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vinrock's Ceramic Plate Armor</name>
+<description>Adds a fragile but cheap alternative to Flak Vests. Noteably, they are prone to shattering and can cause injury to the wearer when they break.</description>
+    <author>Vinrock</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>vinrock.ceramicPlateArmor</packageId>
+</ModMetaData>
